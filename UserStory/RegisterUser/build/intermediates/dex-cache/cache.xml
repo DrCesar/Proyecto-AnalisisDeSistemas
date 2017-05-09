@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\WadeOwen\.android\build-cache\a486895e9a0ae093ae494cf371c788b8e9f3562a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\WadeOwen\AndroidStudioProjects\Sprint1-AnalisisDeSistemas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9641e013dab42ba51fc7dd50acdd868c112ff848\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WadeOwen\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\WadeOwen\AndroidStudioProjects\Sprint1-AnalisisDeSistemas\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_39e3829c7ab4cbf31dab473d2dd39a4216dc14c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WadeOwen\.android\build-cache\535ad3b9755e63300113749e007c9b6b60c1639d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\WadeOwen\AndroidStudioProjects\Sprint1-AnalisisDeSistemas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2f41b10ffb5be547946a8a02e83b552598b94e60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WadeOwen\AndroidStudioProjects\Sprint1-AnalisisDeSistemas\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\WadeOwen\AndroidStudioProjects\Sprint1-AnalisisDeSistemas\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e4e35a2811f4b8b800b56ac9842e45af887d1981\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WadeOwen\AndroidStudioProjects\Sprint1-AnalisisDeSistemas\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3b45c2637fbf83159dddc3bd0c6e196ec9c74bbe">
+        <dex dex="C:\Users\WadeOwen\AndroidStudioProjects\Sprint1-AnalisisDeSistemas\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_84672deb1afd847d4ff27bb5f91a07f78791170d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WadeOwen\.android\build-cache\01372b0fac11f0ab8e0d93215da480f37ed988e1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\WadeOwen\AndroidStudioProjects\Sprint1-AnalisisDeSistemas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4ce8c22a8c1a2f459e755bbb520013ac9ca61f58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WadeOwen\.android\build-cache\6c612f3a44a5514f15505135ae1c66121d389294\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\WadeOwen\AndroidStudioProjects\Sprint1-AnalisisDeSistemas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e4c2d578a4e2c64013e609fb354516248c077aad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WadeOwen\.android\build-cache\e842acf92e4207f3023cbcff512368c4c1ef6b1a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\WadeOwen\AndroidStudioProjects\Sprint1-AnalisisDeSistemas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_481e7717aa6abad66665eb8b9971879d94cd697f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WadeOwen\.android\build-cache\281ec04fa843034b2d850b5bc64215fee8d0089f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\WadeOwen\AndroidStudioProjects\Sprint1-AnalisisDeSistemas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6bc2e5453ce9ac1ece7b031009df4b040ca7bf93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WadeOwen\.android\build-cache\e44664b24ff6de783bd8af78ab9e114bacb88824\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\WadeOwen\AndroidStudioProjects\Sprint1-AnalisisDeSistemas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b169b5f8593710cbf731aa5a8759788810f8cf7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WadeOwen\.android\build-cache\4937d30730b6841b079309a474c3904302400121\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\WadeOwen\AndroidStudioProjects\Sprint1-AnalisisDeSistemas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_32c641571cabbc97432b890ed8ebc959d124ffd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WadeOwen\.android\build-cache\66adf42474f5f0d42f30dc5f385c86ff3ecafa59\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\WadeOwen\AndroidStudioProjects\Sprint1-AnalisisDeSistemas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5bf54c4185278e56ac7c0e6215f8257ceed41105\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WadeOwen\.android\build-cache\89f92b6a4a016b8f9fb86679866422add27fa1a3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\WadeOwen\AndroidStudioProjects\Sprint1-AnalisisDeSistemas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2f1cc56857399746f1cb86cb9ca2069aead43517\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WadeOwen\.android\build-cache\9e8eeb6e984c52b965a08b970071188dae2fdd35\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\WadeOwen\AndroidStudioProjects\Sprint1-AnalisisDeSistemas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b6e3a8a4961090d856aa7fb74b32e889cf451e60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WadeOwen\.android\build-cache\db6362dc00452ceacd9a8e6706a7181fd8df8316\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\WadeOwen\AndroidStudioProjects\Sprint1-AnalisisDeSistemas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_59ff696db199d2dddc2c05160d78f97b898e4ad8\classes.dex" />
+    </item>
+
+</items>
