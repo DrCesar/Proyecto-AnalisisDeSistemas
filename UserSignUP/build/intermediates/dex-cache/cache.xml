@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\WadeOwen\Documents\UVG\QuintoSemestre\AnalisisDeSistemas\Proyecto\UserSignUp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\WadeOwen\Documents\UVG\QuintoSemestre\AnalisisDeSistemas\Proyecto\UserSignUp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4af92a1bfa282d45991d4bba6acd95deffaa0f12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WadeOwen\Documents\UVG\QuintoSemestre\AnalisisDeSistemas\Proyecto\UserSignUp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f9aa7845264db7d40d7ffecd1b5c5da84f0893be">
+        <dex dex="C:\Users\WadeOwen\Documents\UVG\QuintoSemestre\AnalisisDeSistemas\Proyecto\UserSignUp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ce913f6af8d9cbb8d7849c45520917a84ee96656\classes.dex" />
+    </item>
+
+</items>
